@@ -168,7 +168,8 @@ img {
   position: relative;
 }
 
-.header-link:hover::after {
+.header-link:hover::after,
+.header-link:focus::after {
   display: block;
   content: '';
   position: absolute;
