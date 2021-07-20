@@ -150,7 +150,6 @@ img {
 .site-nav .link.current {
   color: var(--accent-color);
   position: relative;
-  padding-bottom: 32px;
 }
 
 .current::after {
